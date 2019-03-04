@@ -1,0 +1,99 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="3" />
+      <entry action="$Delete" count="30" />
+      <entry action="$Paste" count="3" />
+      <entry action="$SelectAll" count="14" />
+      <entry action="$Undo" count="86" />
+      <entry action="About" count="1" />
+      <entry action="ActivateFavoritesToolWindow" count="1" />
+      <entry action="ActivateGradleToolWindow" count="5" />
+      <entry action="ActivateProjectToolWindow" count="13" />
+      <entry action="ActivateTerminalToolWindow" count="2" />
+      <entry action="Android.RunAndroidAvdManager" count="3" />
+      <entry action="Android.RunAndroidSdkManager" count="4" />
+      <entry action="Android.SyncProject" count="61" />
+      <entry action="CloseContent" count="1" />
+      <entry action="CodeCompletion" count="17" />
+      <entry action="CommentByLineComment" count="15" />
+      <entry action="DeveloperServices.Firebase" count="1" />
+      <entry action="DialogOkAction Enter" count="14" />
+      <entry action="EditorBackSpace" count="509" />
+      <entry action="EditorChooseLookupItem" count="156" />
+      <entry action="EditorCopy" count="35" />
+      <entry action="EditorCut" count="5" />
+      <entry action="EditorDelete" count="1" />
+      <entry action="EditorDown" count="339" />
+      <entry action="EditorDownWithSelection" count="16" />
+      <entry action="EditorEnter" count="123" />
+      <entry action="EditorLeft" count="93" />
+      <entry action="EditorLineEnd" count="25" />
+      <entry action="EditorLineEndWithSelection" count="4" />
+      <entry action="EditorLineStart" count="20" />
+      <entry action="EditorLineStartWithSelection" count="7" />
+      <entry action="EditorNextWord" count="1" />
+      <entry action="EditorPageDown" count="1" />
+      <entry action="EditorPaste" count="44" />
+      <entry action="EditorRight" count="171" />
+      <entry action="EditorRightWithSelection" count="181" />
+      <entry action="EditorTab" count="27" />
+      <entry action="EditorToggleInsertState" count="1" />
+      <entry action="EditorUp" count="87" />
+      <entry action="EditorUpWithSelection" count="2" />
+      <entry action="Exit" count="2" />
+      <entry action="FileChooser.NewFolder" count="3" />
+      <entry action="FileChooser.Refresh" count="4" />
+      <entry action="FileChooser.ShowHiddens" count="1" />
+      <entry action="Find" count="1" />
+      <entry action="GoogleCloudTools.SampleImport" count="1" />
+      <entry action="GoogleLogin.LoginService" count="5" />
+      <entry action="GotoBookmark1" count="1" />
+      <entry action="Gradle.ToggleOfflineAction" count="3" />
+      <entry action="HideAllWindows" count="2" />
+      <entry action="Images.Editor.ActualSize" count="1" />
+      <entry action="Images.Editor.ToggleGrid" count="1" />
+      <entry action="Images.Editor.ZoomIn" count="3" />
+      <entry action="Images.Editor.ZoomOut" count="8" />
+      <entry action="Images.ToggleTransparencyChessboard" count="1" />
+      <entry action="ImportModule" count="2" />
+      <entry action="InvalidateCaches" count="3" />
+      <entry action="JumpToLastWindow" count="1" />
+      <entry action="Kotlin.NewFile" count="1" />
+      <entry action="NewClass" count="3" />
+      <entry action="NewFile" count="2" />
+      <entry action="NewModule" count="1" />
+      <entry action="NewProject" count="6" />
+      <entry action="NextTemplateVariable" count="1" />
+      <entry action="OpenFile" count="2" />
+      <entry action="Progress Resumed" count="8" />
+      <entry action="ReformatCode" count="1" />
+      <entry action="RenameElement" count="4" />
+      <entry action="RestoreDefaultLayout" count="5" />
+      <entry action="RevealIn" count="3" />
+      <entry action="Run" count="17" />
+      <entry action="SaveAll" count="20" />
+      <entry action="ShowColorPicker" count="2" />
+      <entry action="ShowSettings" count="22" />
+      <entry action="StoreDefaultLayout" count="2" />
+      <entry action="Switcher" count="1" />
+      <entry action="Synchronize" count="6" />
+      <entry action="ToggleFloatingMode" count="2" />
+      <entry action="ToggleLineBreakpoint" count="2" />
+      <entry action="ToggleSideMode" count="1" />
+      <entry action="ViewToolBar" count="1" />
+      <entry action="ViewToolButtons" count="1" />
+      <entry action="template.create.ActivityBasic Activity" count="6" />
+    </counts>
+  </component>
+  <component name="FUSApplicationUsageTrigger">
+    <session id="655482535">
+      <usages-collector id="statistics.lifecycle.app">
+        <counts>
+          <entry key="ide.close" value="4" />
+          <entry key="ide.freeze.12" value="1" />
+          <entry key="ide.freeze.126" value="1" />
+          <entry key="ide.freeze.13" value="3" />
+          <entry key="ide.freeze.14" value="1" />
+          <entry key="ide.freeze.16" value="1" />
+          <entry key
